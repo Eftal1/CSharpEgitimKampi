@@ -145,19 +145,19 @@ namespace _04_Loops
             #region OrnekSinavSorusu
             // Klavyeden girilen 3 basamaklı sayının basamakları toplamını hesaplayan kodu yazınız
 
-            Console.Write("Sayıyı Giriniz: ");
-            int number = int.Parse(Console.ReadLine());
-            int ones, tens, hundreds;
-            int sum;
+            //Console.Write("Sayıyı Giriniz: ");
+            //int number = int.Parse(Console.ReadLine());
+            //int ones, tens, hundreds;
+            //int sum;
 
-            ones = number % 10;
-            tens = (number % 100) / 10;
-            hundreds = number / 100;
+            //ones = number % 10;
+            //tens = (number % 100) / 10;
+            //hundreds = number / 100;
             
 
-            Console.WriteLine(ones + "-"+ tens + "-" + hundreds);
-            sum =ones + tens + hundreds;
-            Console.WriteLine(sum);
+            //Console.WriteLine(ones + "-"+ tens + "-" + hundreds);
+            //sum =ones + tens + hundreds;
+            //Console.WriteLine(sum);
 
 
             
