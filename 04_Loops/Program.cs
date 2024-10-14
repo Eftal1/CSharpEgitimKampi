@@ -159,7 +159,7 @@ namespace _04_Loops
             //sum =ones + tens + hundreds;
             //Console.WriteLine(sum);
 
-
+            //GitDeneme
             
             #endregion
 
