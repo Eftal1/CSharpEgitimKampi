@@ -15,3 +15,5 @@
 📍  Proje 8 (08_Methods): Metotlar konusunu tamamladım. void metotlar, geriye değer döndermeyen string parametreli metotlar, geriye değer döndermeyen int parametreli metotlar, geriye değer döndüren metotlar, geriye değer dönderen string metotlar, geriye değer dönderen int metotlar, ortalama sınav sonuçlarına göre öğrenci başarılı / başarısız oldu örneğini yapıp konuyu tamamladım. 
 
 📍  Proje 9 (09_DatabaseProject): SQL Veri tabanı ve tablo oluşturma & C# kısmına bağlama konusunu tamamladım. 
+
+📍  Proje 10 (10_DatabaseCrud): C# ile SQL Listeleme Ekleme Güncelleme ve Silme İşlemleri Crud İşlemleri
