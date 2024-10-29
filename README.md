@@ -5,7 +5,5 @@
 📍  Proje 5 (05_LoopsWithStars): Döngülerle pratik uygulamalar, yıldızlarla şekil çizme konularını tamamladım.
 📍  Proje 6 (06_Arrays): Temel dizi örnekleri, dizideki elemanları listeleme, dizi metotları ve kullanıcıdan değer alma örneği konularını tamamladım.  
 📍  Proje 7 (07_ForeachLoop): Forech döngüsü, listeler ve "C# Eğitim Kampı Sınav Uygulaması" örneğini tamamladım.
-📍  Proje 8 (
-📍
-
-
+📍  Proje 8 (08_Methods): Metotlar konusunu tamamladım. void metotlar, geriye değer döndermeyen string parametreli metotlar, geriye değer döndermeyen int parametreli metotlar, geriye değer döndüren metotlar, geriye değer dönderen string metotlar, geriye değer dönderen int metotlar, ortalama sınav sonuçlarına göre öğrenci başarılı / başarısız oldu örneğini yapıp konuyu tamamladım. 
+📍	Proje 9 (09_DatabaseProject): SQL Veri tabanı ve tablo oluşturma & C# kısmına bağlama konusunu tamamladım.
