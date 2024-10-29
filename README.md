@@ -16,4 +16,4 @@
 
 📍  Proje 9 (09_DatabaseProject): SQL Veri tabanı ve tablo oluşturma & C# kısmına bağlama konusunu tamamladım. 
 
-📍  Proje 10 (10_DatabaseCrud): C# ile SQL Listeleme Ekleme Güncelleme ve Silme İşlemleri Crud İşlemleri
+📍  Proje 10 (10_DatabaseCrud): C# ile SQL Listeleme Ekleme Güncelleme ve Silme İşlemleri Crud İşlemleri konusunu tamamladım.
