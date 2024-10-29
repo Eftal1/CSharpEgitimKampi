@@ -161,7 +161,7 @@ namespace _08_Methods
             //Console.WriteLine(examResult("Ayşe", 36, 88, 33));
 
             #endregion 
-            Console.Read();
+            //Console.Read();
         }
     }
 }
